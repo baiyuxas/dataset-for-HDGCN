@@ -13,3 +13,5 @@ We use the model in YCB dataset and complete the generation of our dataset in bu
 
 ![The production process of a single data sample.][1]
 [1]:https://github.com/baiyuxas/dataset-for-HDGCN/blob/main/Figure_1.png
+
+![avatar](https://github.com/baiyuxas/dataset-for-HDGCN/blob/main/Figure_1.png)
