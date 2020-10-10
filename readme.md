@@ -17,3 +17,4 @@ We use the model in YCB dataset and complete the generation of our dataset in bu
 ![3](https://github.com/baiyuxas/dataset-for-HDGCN/blob/main/Figure_1.png)
 
 In the future work, we will  add the point cloud segmentation dataset for grasping.
+
