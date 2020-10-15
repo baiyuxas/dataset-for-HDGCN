@@ -1,5 +1,5 @@
 # This is a dataset for pointcloud grasping.
-[HDGCN](https://github.com/baiyuxas/dataset-for-HDGCN)
+[HDGCN](https://github.com/baiyuxas/HDGCN)
 
 This is our model for point cloud analysis.
 
