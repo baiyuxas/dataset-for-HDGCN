@@ -3,7 +3,7 @@
 
 This is our model for point cloud analysis.
 
-[The download link for the dataset is here.](https://github.com/baiyuxas/dataset-for-HDGCN)
+[The download link for the dataset is here.](https://pan.baidu.com/s/13f9_tI3aoPCSyA1qwlXteA)  Cloud disk extraction code：8shx
 
 The data includes 10 categories of objects from the YCB dataset. A total of 10000 scenes, including 8000 as training set and 2000 as test set.
 
